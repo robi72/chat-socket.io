@@ -1,0 +1,9 @@
+{
+    "name": "socket-chat-app",
+    "version": "0.0.1",
+    "description": "This is chatt app project work by Robert and Samer",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^2.3.0"
+    }
+}
