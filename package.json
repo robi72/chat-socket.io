@@ -1,9 +1,15 @@
 {
-    "name": "socket-chat-app",
-    "version": "0.0.1",
-    "description": "This is chatt app project work by Robert and Samer",
-    "dependencies": {
-        "express": "^4.15.2",
-        "socket.io": "^2.3.0"
-    }
+  "name": "chat-socket.io",
+  "version": "1.0.0",
+  "description": "Creating chat app via project work by Ropert and Samer using the node express  ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm install and then npm start",
+    "start": "node server.js"
+  },
+  "author": "Ropert and Samer",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
 }
